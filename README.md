@@ -46,3 +46,5 @@
 <p> 100 % -- 5 tasks / 5.</p>
 <li>Rsuh 02 :</li>
 <p> 75 % 3 tasks / 4.</p>
+
+<p>Beware of -42 for Epitech Students</p>
