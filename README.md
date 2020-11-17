@@ -1,5 +1,5 @@
 <h1>CPool-Part-1</h1>
-<p>{EPITECH} -- First year -- All Days and little project during the C pool</p>
+<h3>{EPITECH} -- First year -- All Days and little project during the C pool</h3>
 
 <p>Cpool Part 1 unit : Grade D</p>
 
