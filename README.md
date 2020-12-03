@@ -1,50 +1,29 @@
-<h1>CPool-Part-1</h1>
-<h3>{EPITECH} -- First year -- Semester 1 -- All Days and little project during the C pool</h3>
+# CPool-Part-1
+### {EPITECH} -- First year -- Semester 1 -- All Days and little project during the C pool
 
-<p>Cpool Part 1 unit : Grade D</p>
+Cpool Part 1 unit : Grade D
 
-<h3> Days </h3>
+|   Category   | Percentage | Number of tests |
+|:------------:|:----------:|:---------------:|
+|     **DAYS**     |            |                 |
+|     Day 1    |   12,5 %   |      1 / 8      |
+|     Day 2    |    100 %   |      7 / 7      |
+|     Day 3    |   66,7 %   |      6 / 9      |
+|     Day 4    |     0 %    |      0 / 6      |
+|     Day 5    |     0 %    |      0 / 8      |
+|     Day 6    |     0 %    |      0 / 21     |
+|     Day 7    |    50 %    |      3 / 6      |
+|     Day 8    |     0 %    |      0 / 5      |
+|     Day 9    |   33,3 %   |      2 / 6      |
+|    Day 10    |     0 %    |      0 / 5      |
+|    Day 11    |     0 %    |      0 / 11     |
+|    Day 12    |     0 %    |      0 / 4      |
+|    Day 13    |     0 %    |      0 / 8      |
+|   **PROJECTS**   |            |                 |
+|   Fir Tree   |    100 %   |      3 / 3      |
+| Match nMatch |     0 %    |      0 / 2      |
+|     **RUSHS**    |            |                 |
+|    Rush 1    |    100 %   |      5 / 5      |
+|    Rush 2    |    75 %    |      3 / 4      |
 
-<li>Day 01 :</li>
-<p> 12,5 % -- 1 task / 8.</p>
-<li>Day 02 :</li>
-<p> 100 % -- 7 tasks / 7.</p>
-<li>Day 03 :</li>
-<p> 66,7 % -- 6 tasks / 9.</p>
-<li>Day 04 :</li>
-<p> 0 % -- 0 task / 6.</p>
-<li>Day 05 :</li>
-<p> 0 % -- 0 task / 8.</p>
-<li>Day 06 :</li>
-<p> 0 % -- 0 task / 21.</p>
-<li>Day 07 :</li>
-<p> 5O % -- 3 tasks / 6.</p>
-<li>Day 08 :</li>
-<p> 0 % -- 0 task / 5.</p>
-<li>Day 09 :</li>
-<p> 33,3 % -- 2 tasks / 6.</p>
-<li>Day 10 :</li>
-<p> 0 % -- 0 task / 5.</p>
-<li>Day 11 :</li>
-<p> 0 % -- 0 task / 11.</p>
-<li>Day 12 :</li>
-<p> 0 % -- 0 task / 4.</p>
-<li>Day 13 :</li>
-<p> Subjet 0 -- 0 % -- 0 task / 8. (tasks for the subjet 2)</p>
-
-<h3> Projects </h3>
-
-<li>Fir Tree :</li>
-<p> 100 % -- 3 tasks / 3.</p>
-<li>Match nMatch :</li>
-<p> O % -- 0 task / 2.</p>
-
-
-<h3> Rushs </h3>
-
-<li>Rush 01 :</li>
-<p> 100 % -- 5 tasks / 5.</p>
-<li>Rsuh 02 :</li>
-<p> 75 % 3 tasks / 4.</p>
-
-<p>Beware of -42 for Epitech Students</p>
+Beware of -42 for Epitech Students
